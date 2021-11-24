@@ -1,0 +1,323 @@
+/* inicio alteracoes do contraste */
+
+
+.contraste #content.internas h2{
+    color: #FFFFFF;
+    border-color: white;
+}
+
+.contraste #content div{
+	border-color: white;
+}
+
+/* em documentFirst... faltava colocar o .contraste antes*/
+.contraste #content.internas h1, .contraste #content.internas .documentFirstHeading{
+    background:#1c1c1c!important;
+    border-color: white;
+}
+
+/*
+.contraste #content.internas h1, .contraste #content.internas .documentFirstHeading{ 
+    border-top: 3px solid #FFFFFF;
+}
+*/
+
+.contraste #content.internas .tile-list-1 .tileItem .tileHeader h2 a,
+.contraste #content.internas .tile-list-1 .tileItem .tileHeader h3 a,
+.contraste #content.internas .tile-list-1 .tileItem .tileHeader h4 a {
+
+    color:#FFF
+}
+
+
+.contraste .btn-success {
+    background-color:#000;
+    background-image:-moz-linear-gradient(top, #000, #000);
+    background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#000), to(#000));
+    background-image:-webkit-linear-gradient(top, #000, #000);
+    background-image:-o-linear-gradient(top, #000, #000);
+    background-image:linear-gradient(to bottom, #000, #000);
+    background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff5bc0de', endColorstr='#ff2f96b4', GradientType=0);
+    border-color:#000 #000 #000;
+    border-color:rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+
+}
+
+.contraste .btn-info,
+
+.contraste .btn {
+    background-color:#000;
+    background-image:-moz-linear-gradient(top, #000, #000);
+    background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#000), to(#000));
+    background-image:-webkit-linear-gradient(top, #000, #000);
+    background-image:-o-linear-gradient(top, #000, #000);
+    background-image:linear-gradient(to bottom, #000, #000);
+    background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff5bc0de', endColorstr='#ff2f96b4', GradientType=0);
+    border-color:#000 #000 #000;
+    border-color:rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+
+}
+
+
+.contraste .btn:hover,
+.contraste .btn:focus,
+.contraste .btn:active,
+.contraste .btn.active,
+.contraste .btn.disabled,
+.contraste .btn[disabled],
+.contraste .btn-info:hover,
+.contraste .btn-info:focus,
+.contraste .btn-info:active,
+.contraste .btn-info.active,
+.contraste .btn-info.disabled,
+.contraste .btn-info[disabled],
+.contraste .btn-success:hover,
+.contraste .btn-success:focus,
+.contraste .btn-success:active,
+.contraste .btn-success.active,
+.contraste .btn-success.disabled,
+.contraste .btn-success[disabled] 
+{
+    color:#ffffff;
+    background-color:#000;
+}
+
+.contraste header #social-icons a{
+    color:white
+}
+
+.contraste main div.container #navigation nav a{
+    color: white;
+}
+
+.contraste .module a {
+    color:white!important;
+    text-decoration: none;
+
+}
+
+.contraste #content p span{
+    color:  #FFFFFF !important;
+
+}
+
+.contraste a{
+    color: yellow;
+
+}
+
+.contraste .rastro-navegacao a{
+    color: white;
+
+}
+
+.contraste a:focus, .contraste a:hover{
+    color: yellow;
+    text-decoration:underline;
+
+}
+
+.contraste .rastro-navegacao a:focus, .contraste .rastro-navegacao a:hover{
+    color: white;
+
+
+}
+
+.contraste .nav > li > a:hover, .contraste .nav > li > a:focus {
+
+    background-color: #000;
+}
+
+.contraste #content.internas h1, .contraste #content.internas .documentFirstHeading {
+    background: none;
+
+}
+
+.contraste .nn_sliders.accordion>.accordion-group.active>.accordion-heading>a.accordion-toggle {
+    background-color: #f8f8f8;
+    color: #000;
+}
+.contraste .nn_sliders.accordion > .accordion-group > .accordion-heading > a.accordion-toggle:hover {
+
+    color: #000;
+
+}
+
+.contraste .accordion-heading a {
+    color:#fff;
+    font-weight:bold;
+
+}
+
+/*
+.contraste #content.internas .page-header > h2 {
+    background: none;
+    border-top: 3px solid rgb(255,255, 255);
+
+}
+*/
+
+.contraste #content.internas .page-header {
+    background-color: transparent;
+    border-top: 3px solid white;
+    
+}
+.contraste .table-striped tbody > tr:nth-child(2n+1) > td, .contraste .table-striped tbody > tr:nth-child(2n+1) > th {
+    background-color: rgb(0, 0, 0);
+}
+
+.contraste .table-striped tbody > tr:nth-child(2n+1) > td:hover, .contraste .table-striped tbody > tr:nth-child(2n+1) > th:hover {
+    background-color: rgb(0, 0, 0);
+}
+
+.contraste .perguntas_mijo{
+    background-color: rgb(0, 0, 0);
+
+}
+
+.contraste .respostas_mijo{
+    color: rgb(255, 255, 255);
+
+}
+
+.contraste .botao_enviar_mijo button.btn {
+    background-image: none;
+    background-color: rgb(0,0, 0);
+
+}
+
+.contraste .barra_noticias2 {
+    border-top: 3px solid rgb(255, 255, 255);
+}
+
+.contraste main div.container #navigation li.active {
+    border-color: white !important;
+}
+
+.contraste .chapeu_acontece_na_fab{
+    color: #FFFFFF;
+}
+
+
+.contraste footer .footer-atalhos,.contraste footer .footer-logos,
+.contraste header div.sobre{
+    border-bottom:0px ;
+}
+
+.contraste header .sobre a,
+.contraste header #logo a,
+.contraste header #portal-siteactions a,.contraste header #language a,
+.contraste header #accessibility a,
+.contraste footer .footer-atalhos a, .contraste footer .footer-logos a,
+.contraste footer a 
+{
+    color:#fff
+}
+
+.contraste header #portal-searchbox .searchButton{
+    background: white;
+}
+.contraste header #portal-searchbox input[placeholder],
+.contraste header #portal-searchbox [placeholder], 
+.contraste header #portal-searchbox *[placeholder] 
+{
+    color:white!important;
+
+}
+
+
+.contraste textarea,input[type="text"]:active,
+.uneditable-input{border:1px solid #FFFFFF;
+}
+
+.contraste .searchButton i.icon-search {
+
+    color:#000 !important;
+} 
+
+/*inicio dos estilos de constrate central-conteudos */
+.contraste #navigation .link-video, .contraste #navigation .link-radio,
+.contraste #navigation .link-fotos, .contraste #navigation .link-publicacoes,
+.contraste #navigation .link-audios, .contraste #navigation .link-downloads{
+    background-image: url("../img/sprite_contraste.png") ;
+   /*background-color: #0d0d0d;*/
+    
+}
+
+/*fim dos estilos de contraste central-conteudos*/
+
+.contraste .mod_events_td_dayname {
+    color: white;
+}
+
+.contraste table.mod_events_monthyear, table.mod_events_table {
+   
+    color: white;
+}
+
+.contraste table.mod_events_table tbody > tr:nth-child(odd) > td,
+.contraste table.mod_events_table tbody > tr:nth-child(odd) > th {
+  background-color: transparent; /*efeito stripted */
+  
+}
+
+
+.contraste table.mod_events_monthyear{
+   background-color: transparent;
+}
+
+
+.contraste main div.container .module-twitter-facebook .header li.active a{
+    background-color: #252525;
+}
+
+.contraste #content.internas .page-header > h1{
+    color: white;
+}
+
+.contraste #content.internas .eventgallery-tiles-list .eventgallery-tile .content h2 {
+	
+        color: white;
+        
+}
+
+.contraste #content.internas .ajaxpaging h1.description:first-of-type{
+    background-color:  black;
+    border-color: white;
+    color: white
+ 
+}
+
+.contraste #content.internas #phoca-dl-category-box > h1{
+    background-color:  black;
+    border-color: white;
+    color: white
+}
+.contraste #k2Container .catItemTitle a{
+    color:white;
+}
+
+.pagina-mapa-do-site .contraste  #content h1:first-of-type,  .contraste #content.internas .search h1:first-of-type{
+  background-color:  black;
+    border-color: white;
+    color: white
+}
+
+.contraste .pagination ul>li>a, .contraste .pagination ul>li>span {
+    
+    background-color: transparent;
+    
+}
+
+.contraste .error{
+   background-color: transparent;
+}
+
+.contraste legend, .contraste .btn{
+	color: white;
+}
+
+
+
+
+
